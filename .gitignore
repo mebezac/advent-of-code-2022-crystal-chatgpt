@@ -1,1 +1,20 @@
+# Compiled binary files
+*.o
+*.a
+*.so
+
+# Compiled executables
+puzzle_1
+puzzle_2
+
+# Crystal shards
+shard.lock
+
+# Generated files
+.crystal/
+libs/
 *.dwarf
+
+# System files
+.DS_Store
+Thumbs.db
